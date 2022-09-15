@@ -1,3 +1,3 @@
 Name: Ju Jong Ho
 
-ID: 20554930
+Student ID: 20554930
